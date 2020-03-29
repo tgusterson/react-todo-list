@@ -1,0 +1,10 @@
+.todo-item {
+  align-items: center;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin: $m-size;
+  max-width: 62rem;
+  padding-bottom: 1rem;
+  word-break: break-all;
+}

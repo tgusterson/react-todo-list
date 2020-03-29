@@ -1,0 +1,13 @@
+.button {
+  background-color: #56d14b;
+  border: none;
+  margin-left: $m-size;
+  outline: none;
+  padding: $m-size 3rem;
+}
+
+.button--remove {
+  background-color: #d14b4b;
+  margin-bottom: 0.5rem;
+  padding: 1.2rem 2rem;
+}

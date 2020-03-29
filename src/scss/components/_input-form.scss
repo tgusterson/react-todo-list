@@ -1,0 +1,10 @@
+.input-form {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.input-form__text-input {
+  flex-grow: 1;
+  padding: $m-size;
+}
